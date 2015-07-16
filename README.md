@@ -59,7 +59,7 @@ Input:<br>
 53 7<br>
 43 33<br>
 77 21 <br>
-<br
+<br>
 Output:<br>
 3<br>
 5<br>
